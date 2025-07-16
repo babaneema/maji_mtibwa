@@ -1,0 +1,1 @@
+mysqldump -u root -p --no-data sql_mzingamaji_c employees > employees_schema_backup.sql
